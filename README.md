@@ -12,10 +12,10 @@ Public Rank: 12등
 Private Score: 0.77836
 Private Rank: 54등
 1등과의 점수차: 0.00181
-제츨물들의 점수 변화
+제출물들의 점수 변화
 
 - Automl.ipynb : python의 머신러닝 pycaret라이브러리를 사용하여 분석해본 코드
 - SVM.R : R에서 SVM을 통해 분석해본 코드
 - KNN_NB_RF_LG.R : R에서 딥러닝 KNN을 통해 분석해본 코드
-- nn100plusNmodel10.ipynb : pytho의 딥러닝 pytorch의 nn라이브러리를 사용하여 분석해본 코드
+- nn100plusNmodel10.ipynb : python의 딥러닝 pytorch의 nn라이브러리를 사용하여 분석해본 코드
 - Rcaret.R : R에서 머신러닝 Rcaret를 이용하여 분석해본 코드
